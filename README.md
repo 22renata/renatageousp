@@ -15,3 +15,5 @@
 ⭐ Adoro memes, assistir vídeoclips de músicas pop, ler livros de poesia e passear com a Purusha 🐶.
 
 🔮 O que sabemos é uma gota. O que ignoramos é um oceano. Isaac Newton(1643-1727)
+
+[![](https://img.shields.io/badge/linkedin-9ed0d5)](https://www.linkedin.com/in/renatageousp/)
