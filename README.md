@@ -15,9 +15,6 @@
 
 🔮 What we know is a drop. What we ignore is an ocean. Isaac Newton (1643-1727) 
 
-[![](https://img.shields.io/badge/linkedin-9ed0d5)](https://www.linkedin.com/in/renatageousp/)
-
-
 [![GitHub followers](https://img.shields.io/github/followers/22renata?tab=followers)](https://www.github.com/22renata)
 [![Linkedin Badge](https://img.shields.io/badge/-renatageousp-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatageousp/)](https://www.linkedin.com/in/renatageousp/)
 
